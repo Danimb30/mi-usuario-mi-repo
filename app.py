@@ -1,2 +1,1 @@
-# Pequeña mejora para práctica
-# Pequeña mejora para práctica
+print("Hola", nombre)
