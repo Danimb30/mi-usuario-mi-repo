@@ -1,1 +1,5 @@
-# Pequeña mejora para práctica
+
+mensaje = "Hola"
+
+
+saludo = "Hola"
